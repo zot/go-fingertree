@@ -1,6 +1,6 @@
 # fingertree
 
-[![GoDoc](https://img.shields.io/badge/pkg.go.dev-doc-blue)](http://pkg.go.dev/.)
+[![GoDoc](https://img.shields.io/badge/pkg.go.dev-doc-blue)](http://pkg.go.dev/github.com/zot/go-fingertree)
 
 Package fingertree implements finger trees in Go.
 
