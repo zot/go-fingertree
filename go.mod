@@ -1,3 +1,3 @@
-module go-fingertree
+module github.com/zot/go-fingertree
 
 go 1.14

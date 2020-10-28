@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	. "go-fingertree"
 	"math"
+
+	. "github.com/zot/go-fingertree"
 )
 
 func testTree(t Fingertree) {

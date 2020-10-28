@@ -3,7 +3,8 @@ package main
 
 import (
 	"fmt"
-	ft "go-fingertree"
+
+	ft "github.com/zot/go-fingertree"
 )
 
 //lineMeasure accumulates both line and character offsets
