@@ -1,3 +1,3 @@
-module fingertree
+module go-fingertree
 
 go 1.14

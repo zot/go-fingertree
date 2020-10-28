@@ -2,8 +2,8 @@
 package main
 
 import (
-	ft "fingertree"
 	"fmt"
+	ft "go-fingertree"
 )
 
 //lineMeasure accumulates both line and character offsets

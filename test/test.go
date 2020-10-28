@@ -1,8 +1,8 @@
 package main
 
 import (
-	. "fingertree"
 	"fmt"
+	. "go-fingertree"
 	"math"
 )
 
